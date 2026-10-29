@@ -23,6 +23,13 @@ Yeni proje eklemek için ilgili listeye şu biçimde bir satır ekle:
 - **[Proje adı](https://baglanti)**: Ne olduğu, tek cümle.
 -->
 
+## İçerik
+
+Uzay ve bilim temalı kısa videolar üretiyorum. Seslendirme bana ait.
+
+- [Instagram](https://www.instagram.com/bytahirozcan/)
+- [YouTube](https://www.youtube.com/@bytahirozcan)
+
 ## Diğer
 
 - **[Auxesia](https://lichess.org/@/Auxesia)**: Lichess'e bağladığım satranç yapay zekası hesabı.
